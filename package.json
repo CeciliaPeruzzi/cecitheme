@@ -1,0 +1,21 @@
+{
+  "name": "cecitheme",
+  "displayName": "CeciTheme",
+  "description": "Un tema minimalista para evitar fatiga visual.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "eyesafe",
+        "uiTheme": "vs-dark",
+        "path": "./themes/eyesafe-color-theme.json"
+      }
+    ]
+  }
+}
