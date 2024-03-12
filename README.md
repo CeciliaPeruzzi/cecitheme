@@ -1,5 +1,7 @@
 # cecitheme README
 
+Esta extensión se distribuye bajo la licencia Apache 2.0.
+
 ## Working with Markdown
 
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
