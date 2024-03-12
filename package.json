@@ -3,8 +3,13 @@
   "displayName": "CeciTheme",
   "description": "Un tema minimalista para evitar fatiga visual.",
   "version": "0.0.1",
+  "publisher": "ceci-peruzzi",
   "engines": {
     "vscode": "^1.87.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CeciliaPeruzzi/cecitheme"
   },
   "categories": [
     "Themes"
